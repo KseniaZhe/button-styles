@@ -11,3 +11,57 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+  border-radius: 8px;
+  color: #fff;
+  padding: 0.4em 0.75em 0.3em;
+}
+
+.btn {
+  font-size: 1.125rem;
+  background-color: #333;
+}
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-small {
+  font-size: 0.875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost {
+  border-color: #333;
+  border-width: 3px;
+  border-style: solid;
+  background-color: #fff;
+  color: #333;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  color: #fff;
+  border-color: #666;
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
