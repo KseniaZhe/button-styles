@@ -20,6 +20,10 @@ a {
 }
 
 .btn {
+  display: inline-block;
+}
+
+.btn-pr {
   font-size: 1.125rem;
   background-color: #333;
 }
